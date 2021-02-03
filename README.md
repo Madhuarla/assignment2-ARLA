@@ -57,7 +57,7 @@ Located in the Mojave Desert in the US state of Nevada, Las Vegas is the state's
 ## Disneyland,CL
 Disneyland was opened in 1955 on a 107-acre tract surrounded almost exclusively by orange groves, just west of the sleepy and little-known Southern California community of Anaheim. ... Disneyland Park is a collection of adventures, rides, and shows symbolized by the Disney characters and Sleeping Beauty Castle. 
 
-## New Work Times Square,Ny
+## New York Times Square,Ny
 Times Square is an extremely busy area which is located in the central of Manhattan. It is also one of the most famous places where people celebrate the New Year's Eve. ... Particularly at night, the light of billboards makes Time Square look like in the day. Around the Time Square Plaza are the super high skyscrapers.
 
 ----------
@@ -68,6 +68,7 @@ Times Square is an extremely busy area which is located in the central of Manhat
 > "You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul."- **Swami Vivekananda**
 
 ----------
+
 
 
 
