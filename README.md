@@ -75,7 +75,7 @@ Times Square is an extremely busy area which is located in the central of Manhat
 
 > Reference link :<https://en.wikipedia.org/wiki/Python_(programming_language)> 
 
->SAMPLE CODE
+>SAMPLE CODE :
 Python Program to convert temperature in celsius to fahrenheit
 
 ```
