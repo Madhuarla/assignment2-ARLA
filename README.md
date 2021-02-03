@@ -50,15 +50,22 @@ Biryani is an unique food. At first biryani is a royal food its **only served to
 
 ## Key West,FL
 Key West is the Southernmost City of the contiguous United States, is a four by two mile island, 159 miles southwest of Miami, 90 miles north of Cuba. Bordered by both the Atlantic Ocean and the Gulf of Mexico, Key West lends to wonderful, soothing tropical breezes.
+![keywest](https://github.com/Madhuarla/assignment2-ARLA/blob/main/Images/keywestflorida.jpg)
+
 
 ## Las Vegas, Nevada
 Located in the Mojave Desert in the US state of Nevada, Las Vegas is the state's largest city but as best known as 'Sin City' thanks to its reputation as the 'Entertainment Capital of the World'.
 
+![lasvegas](https://github.com/Madhuarla/assignment2-ARLA/blob/main/Images/losvegas.jpg)
+
 ## Disneyland,CL
 Disneyland was opened in 1955 on a 107-acre tract surrounded almost exclusively by orange groves, just west of the sleepy and little-known Southern California community of Anaheim. ... Disneyland Park is a collection of adventures, rides, and shows symbolized by the Disney characters and Sleeping Beauty Castle. 
+![Disneyland](https://github.com/Madhuarla/assignment2-ARLA/blob/main/Images/disney%20main.jpg)
 
 ## New York Times Square,Ny
 Times Square is an extremely busy area which is located in the central of Manhattan. It is also one of the most famous places where people celebrate the New Year's Eve. ... Particularly at night, the light of billboards makes Time Square look like in the day. Around the Time Square Plaza are the super high skyscrapers.
+
+![newyork](https://github.com/Madhuarla/assignment2-ARLA/blob/main/Images/newyorktimesquare.png)
 
 ----------
 
