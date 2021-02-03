@@ -62,6 +62,13 @@ Times Square is an extremely busy area which is located in the central of Manhat
 
 ----------
 
+## POWER QUOTES
+> “If you are born Poor its not your mistake, but if you die poor its your mistake” - **BILL GATES**
+> "You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul."- **Swami Vivekananda**
+
+----------
+
+
 
 
 
