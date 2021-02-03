@@ -69,6 +69,27 @@ Times Square is an extremely busy area which is located in the central of Manhat
 
 ----------
 
+## CODING TIME
+### PYTHON PROGRAMMING
+> Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.
+> Reference link :<https://en.wikipedia.org/wiki/Python_(programming_language)> 
+
+>SAMPLE CODE
+Python Program to convert temperature in celsius to fahrenheit
+
+```
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+
+```
+>Sample code link: <https://www.programiz.com/python-programming/examples/celsius-fahrenheit>
+
+
 
 
 
