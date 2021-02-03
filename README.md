@@ -44,14 +44,14 @@ Biryani is an unique food. At first biryani is a royal food its **only served to
  |       Location       |    Hours Allocated    |         Price         |
  |----------------------|-----------------------|-----------------------|
  | Key West, Florida    |          6Hrs         |          1000$        |
- | Los Vegas, Nevada    |          2day         |          1500$        |
+ | Las Vegas, Nevada    |          2days        |          1500$        |
  | Disneyland, CL       |          12Hrs        |          500$         |
  | Newyork Times Square |          2Hrs         |          300$         |
 
 ## Key West,FL
 Key West is the Southernmost City of the contiguous United States, is a four by two mile island, 159 miles southwest of Miami, 90 miles north of Cuba. Bordered by both the Atlantic Ocean and the Gulf of Mexico, Key West lends to wonderful, soothing tropical breezes.
 
-## Los Vegas, Nevada
+## Las Vegas, Nevada
 Located in the Mojave Desert in the US state of Nevada, Las Vegas is the state's largest city but as best known as 'Sin City' thanks to its reputation as the 'Entertainment Capital of the World'.
 
 ## Disney land,CL
