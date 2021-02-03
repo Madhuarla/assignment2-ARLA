@@ -54,7 +54,7 @@ Key West is the Southernmost City of the contiguous United States, is a four by 
 ## Las Vegas, Nevada
 Located in the Mojave Desert in the US state of Nevada, Las Vegas is the state's largest city but as best known as 'Sin City' thanks to its reputation as the 'Entertainment Capital of the World'.
 
-## Disney land,CL
+## Disneyland,CL
 Disneyland was opened in 1955 on a 107-acre tract surrounded almost exclusively by orange groves, just west of the sleepy and little-known Southern California community of Anaheim. ... Disneyland Park is a collection of adventures, rides, and shows symbolized by the Disney characters and Sleeping Beauty Castle. 
 
 ## New Work Times Square,Ny
